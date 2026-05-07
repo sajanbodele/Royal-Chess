@@ -1,14 +1,14 @@
-# Photorealistic Chessboard with Animated Pieces
+# ♟️ Animated Chessboard UI
 
-A beautiful, responsive React chessboard component with smooth piece animations. Perfect for chess games and interactive applications.
+A responsive React chessboard with smooth piece animations and a clean realistic design.
 
 ## Features
 
-- ♟️ **Photorealistic Design** - High-quality wood textures and visual effects
-- 🎯 **Animated Pieces** - Smooth, fluid piece movements
-- 📱 **Fully Responsive** - Scales perfectly on all screen sizes
-- ⚡ **Built with React** - Modern component architecture
-- 🎨 **Clean UI** - Visually appealing chess experience
+- 🎨 Realistic board styling  
+- ✨ Clean and modern UI  
+- ⚡ Built with React  
+- 📱  Fully responsive layout  
+- ♟️  Smooth animated chess pieces 
 
 ## Tech Stack
 
@@ -43,9 +43,12 @@ export default function App() {
 
 ## Responsive Design
 
-✅ Mobile-optimized layout with proper spacing
-✅ Perfect 1:1 aspect ratio on all devices
-✅ Scales from mobile to desktop seamlessly
+✅ Mobile-optimized layout with proper spacing  
+
+✅ Perfect 1:1 aspect ratio on all devices  
+
+✅ Scales from mobile to desktop seamlessly  
+
 ✅ Proper padding and breathing room on small screens
 
 ## Key Updates
